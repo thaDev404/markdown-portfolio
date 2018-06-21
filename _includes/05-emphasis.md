@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I am a developer*
+**I love coding all night**
+**React is a *library* not a *framework* **
